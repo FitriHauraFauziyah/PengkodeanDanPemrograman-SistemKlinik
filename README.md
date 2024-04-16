@@ -14,10 +14,10 @@ Tugas Akhir
 ## 🛑Projek Planning: 26 January 2022
 <br/>
 
-## 🔰Projek start: Maret 2022
+## 🔰Projek Start: Maret 2022
 <br/>
 
-## ✅Projek Estimasi finish: October 2022
+## ✅Projek Estimasi Finish: October 2022
 <br/>
 
 ## 💻Need to use:
@@ -29,12 +29,12 @@ Tugas Akhir
 
 
 
-# Database sementara
+# Database Sementara
 ![image](https://user-images.githubusercontent.com/73746365/193379611-2040b141-275f-4cef-8ac4-d6e67f4e012c.png)
 
 
 
-# PROTOTYPE dan Mockup sementara
+# PROTOTYPE dan Mockup Sementara
 ![login](https://user-images.githubusercontent.com/73746365/158311492-b93f8117-6eaa-4ddd-aae4-9b8a95684b38.png)
 # PROTOTYPE dan Mockup sementara
 ![image](https://user-images.githubusercontent.com/73746365/193379210-cf9f6511-598e-4867-a4ff-92f5dcffbb44.png)

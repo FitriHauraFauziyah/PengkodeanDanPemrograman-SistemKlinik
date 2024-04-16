@@ -39,15 +39,15 @@ Tugas Akhir
 ![image](https://user-images.githubusercontent.com/73746365/193379449-c468d36a-82e6-4c90-bc46-d534859f0853.png)
 
 # PROTOTYPE dan Mockup Modifikasi
-- Pada halaman ini ditampilkan adanya penambahan terkait nama klinik menjadi "Klinik Maju Sejahtera Laravel" dan adanya keterangan nama pemilik klinik "Fitri Haura Fauziyah".
+- Pada halaman ini ditampilkan adanya penambahan terkait nama klinik menjadi "Klinik Maju Sejahtera Laravel" dan adanya keterangan nama pemilik klinik "Fitri Haura Fauziyah"
 ![login](https://github.com/FitriHauraFauziyah/PengkodeanDanPemrograman-SistemKlinik/blob/main/Halaman%20Utama.jpeg)
--
+- Pada halaman ini ditampilkan adanya perubahan kata dari "Tentang Kami" menjadi "Tentang Klinik"
 ![login](https://github.com/FitriHauraFauziyah/PengkodeanDanPemrograman-SistemKlinik/blob/main/Tentang%20Klinik%20-%20Dokumentasi.jpeg)
--
+- Pada halaman ini ditampilkan adanya perubahan kata dari "Tentang Kami" menjadi "Tentang Klinik" dan adanya penambahan kata menjadi "Masuk Sebagai Staff Klinik"
 ![login](https://github.com/FitriHauraFauziyah/PengkodeanDanPemrograman-SistemKlinik/blob/main/Tentang%20Klinik%20-%20Pendaftaran.jpeg)
--
+- Pada halaman ini (sisi atas) ditampilkan adanya penambahan terkait nama klinik menjadi "Klinik Maju Sejahtera Laravel" 
 ![login](https://github.com/FitriHauraFauziyah/PengkodeanDanPemrograman-SistemKlinik/blob/main/Alamat%20-%20Informasi%20Klinik.jpeg)
--
+- Pada halaman ini ditampilkan adanya perubahan "Tentang Klinik", "Lokasi", dan penulisan kata "Media Sosial"
 ![login](https://github.com/FitriHauraFauziyah/PengkodeanDanPemrograman-SistemKlinik/blob/main/Alamat%20-%20Peta%20Lokasi.jpeg)
 
 # ERD (Entity Relationship Diagram)

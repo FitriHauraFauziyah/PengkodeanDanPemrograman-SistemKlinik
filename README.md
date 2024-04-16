@@ -5,7 +5,7 @@ Nama: Fitri Haura Fauziyah
 NIM: 12030122140287
 Kelas: E
 Referensi Web: https://github.com/VfvRizky/klinik-laravel?tab=readme-ov-file#prototype-dan-mockup-sementara
-Projek-TA
+# Referensi Web: Projek-TA
 Tugas Akhir
 <br/>
 ## 🛑Projek Planning: 26 January 2022

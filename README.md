@@ -38,4 +38,8 @@ Tugas Akhir
 ![image](https://user-images.githubusercontent.com/73746365/193379266-f43d2d22-8f8f-4531-a509-736d39f9d337.png)
 ![image](https://user-images.githubusercontent.com/73746365/193379449-c468d36a-82e6-4c90-bc46-d534859f0853.png)
 
+# PROTOTYPE dan Mockup Modifikasi
+
+# ERD (Entity Relationship Diagram)
+
 

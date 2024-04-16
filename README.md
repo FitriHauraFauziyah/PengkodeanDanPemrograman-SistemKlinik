@@ -39,7 +39,7 @@ Tugas Akhir
 ![image](https://user-images.githubusercontent.com/73746365/193379449-c468d36a-82e6-4c90-bc46-d534859f0853.png)
 
 # PROTOTYPE dan Mockup Modifikasi
-- 
+- Pada halaman ini ditampilkan adanya penambahan terkait nama klinik menjadi "Klinik Maju Sejahtera Laravel" dan adanya keterangan nama pemilik klinik "Fitri Haura Fauziyah".
 ![login](https://github.com/FitriHauraFauziyah/PengkodeanDanPemrograman-SistemKlinik/blob/main/Halaman%20Utama.jpeg)
 -
 ![login](https://github.com/FitriHauraFauziyah/PengkodeanDanPemrograman-SistemKlinik/blob/main/Tentang%20Klinik%20-%20Dokumentasi.jpeg)

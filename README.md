@@ -41,5 +41,5 @@ Tugas Akhir
 # PROTOTYPE dan Mockup Modifikasi
 
 # ERD (Entity Relationship Diagram)
-![image](https://github.com/FitriHauraFauziyah/PengkodeanDanPemrograman-SistemKlinik/blob/main/SISTEM%20KLINIK%20-%20ERD.drawio.png).
+![image](https://github.com/FitriHauraFauziyah/PengkodeanDanPemrograman-SistemKlinik/blob/main/SISTEM%20KLINIK%20-%20ERD.drawio.png)
 

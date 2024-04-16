@@ -1,5 +1,5 @@
 # Projek-TA
-Tugas Akhirrrrrr
+Tugas Akhir
 <br/>
 ## 🛑Projek Planning: 26 January 2022
 <br/>

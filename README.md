@@ -39,6 +39,16 @@ Tugas Akhir
 ![image](https://user-images.githubusercontent.com/73746365/193379449-c468d36a-82e6-4c90-bc46-d534859f0853.png)
 
 # PROTOTYPE dan Mockup Modifikasi
+- 
+![login](https://github.com/FitriHauraFauziyah/PengkodeanDanPemrograman-SistemKlinik/blob/main/Halaman%20Utama.jpeg)
+-
+![login](https://github.com/FitriHauraFauziyah/PengkodeanDanPemrograman-SistemKlinik/blob/main/Tentang%20Klinik%20-%20Dokumentasi.jpeg)
+-
+![login](https://github.com/FitriHauraFauziyah/PengkodeanDanPemrograman-SistemKlinik/blob/main/Tentang%20Klinik%20-%20Pendaftaran.jpeg)
+-
+![login](https://github.com/FitriHauraFauziyah/PengkodeanDanPemrograman-SistemKlinik/blob/main/Alamat%20-%20Informasi%20Klinik.jpeg)
+-
+![login](https://github.com/FitriHauraFauziyah/PengkodeanDanPemrograman-SistemKlinik/blob/main/Alamat%20-%20Peta%20Lokasi.jpeg)
 
 # ERD (Entity Relationship Diagram)
 ![image](https://github.com/FitriHauraFauziyah/PengkodeanDanPemrograman-SistemKlinik/blob/main/SISTEM%20KLINIK%20-%20ERD.drawio.png)

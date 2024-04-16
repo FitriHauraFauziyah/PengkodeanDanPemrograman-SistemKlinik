@@ -32,7 +32,7 @@ Tugas Akhir
 
 # PROTOTYPE dan Mockup Sementara
 ![login](https://user-images.githubusercontent.com/73746365/158311492-b93f8117-6eaa-4ddd-aae4-9b8a95684b38.png)
-# PROTOTYPE dan Mockup sementara
+# PROTOTYPE dan Mockup Sementara
 ![image](https://user-images.githubusercontent.com/73746365/193379210-cf9f6511-598e-4867-a4ff-92f5dcffbb44.png)
 ![image](https://user-images.githubusercontent.com/73746365/193379427-89fa6d3f-57ef-4933-ba80-8c6b7124f3b6.png)
 ![image](https://user-images.githubusercontent.com/73746365/193379256-f960324d-b61c-492a-a409-4fb568cff848.png)

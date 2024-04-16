@@ -1,4 +1,4 @@
-# Pengkodean dan Pemrograman Sistem Klinik 
+# Pengkodean dan Pemrograman - Sistem Klinik 
 Source Code Aplikasi Fasilitas Kesehatan Sederhana Berbasis Website dengan Laravel 8
 # Tugas UTS Pengkodean dan Pemrograman 
 Nama: Fitri Haura Fauziyah
@@ -41,5 +41,5 @@ Tugas Akhir
 # PROTOTYPE dan Mockup Modifikasi
 
 # ERD (Entity Relationship Diagram)
-
+![image](https://github.com/FitriHauraFauziyah/PengkodeanDanPemrograman-SistemKlinik/blob/main/SISTEM%20KLINIK%20-%20ERD.drawio.png).
 
